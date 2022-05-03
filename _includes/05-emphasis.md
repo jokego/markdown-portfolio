@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I know nothing*
+
+# **I REALLY KNOW NOTHING**
+
+_I __REALLY__ KNOW NOTHING_ 
